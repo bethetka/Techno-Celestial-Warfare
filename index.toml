@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "df93ac5b6418fc103d6298f3769fa493de2b36ba43b2ee8f832ab896d4c3d10a"
+hash = "e43180891bf07ec4d9e1c855a1747b52a6bb6cac085f68e49574216c784d5cfb"
 metafile = true
 
 [[files]]
@@ -258,6 +258,11 @@ metafile = true
 [[files]]
 file = "mods/rubidium-extra.pw.toml"
 hash = "c3ddf14ff64f95ad0c83ff5a0c07d1b1cb9f560fa383175aec72d6a0af7f4328"
+metafile = true
+
+[[files]]
+file = "mods/sab.pw.toml"
+hash = "73fde351ff65d56e866e0e95ba6d5c8ae1a70d9b7f458f62c71266f5e298f281"
 metafile = true
 
 [[files]]

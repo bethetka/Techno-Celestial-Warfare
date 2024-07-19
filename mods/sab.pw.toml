@@ -1,0 +1,8 @@
+name = "Steel Armor Blocks"
+filename = "steel_armor_blocks_forge_1.18.2_1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://files.bethetka.ru/techno-celestial-warfare/steel_armor_blocks_forge_1.18.2_1.3.0.jar"
+hash-format = "sha256"
+hash = "79064779927a1f0acb63089380f23a4827dc170417882ddffdb4c79a4548abc1"

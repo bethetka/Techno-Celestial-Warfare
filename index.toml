@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "9a76fe10369dfecbfbe99a34121ebca9094da4431d3e538a373f9a6efeabe750"
+
+[[files]]
 file = "mods/additional-guns.pw.toml"
 hash = "4694479aecd3ce582fc2304fb9e939dde926d1f0719440703d547d0f57f4f97e"
 metafile = true
@@ -266,8 +270,9 @@ hash = "3674566a03e0711290f5e33230414cc05c301600d0906e9928230ce787ecda3b"
 metafile = true
 
 [[files]]
-file = "mods/smallarm.toml"
+file = "mods/smallarm.pw.toml"
 hash = "ed37f2a6cee21cd15e5c466f4aded81c36c92ac07c06b508a21636065b180cdc"
+metafile = true
 
 [[files]]
 file = "mods/some-peripherals.pw.toml"

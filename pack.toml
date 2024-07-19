@@ -1,4 +1,4 @@
-name = "Techno-Celestial Warfare"
+name = "Techno-Celestial-Warfare"
 author = "null squad at bethetka.ru"
 version = "0.1.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9de72a1d2266999a94c083862e8cc3bcc6c3abded53173417f9f89f481b6bbbe"
+hash = "f511afe2b662c75272f44b9d9e80ce8a5179e3fef8c8365a7c517f738d00145c"
 
 [versions]
 forge = "40.2.14"

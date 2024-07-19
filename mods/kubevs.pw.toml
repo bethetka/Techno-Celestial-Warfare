@@ -1,0 +1,13 @@
+name = "KubeVS"
+filename = "kubevs-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/gGChsSL8/versions/GLVKLnfd/kubevs-1.0.0.jar"
+hash-format = "sha1"
+hash = "2b6ef9ed022afd6fc61a9d200aab032de255890e"
+
+[update]
+[update.modrinth]
+mod-id = "gGChsSL8"
+version = "GLVKLnfd"

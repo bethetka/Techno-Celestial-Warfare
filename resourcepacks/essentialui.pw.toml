@@ -1,0 +1,13 @@
+name = "Essential UI"
+filename = "EssentialUI-1.19.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/FsSrime2/versions/KuLNKmIo/EssentialUI-1.19.zip"
+hash-format = "sha1"
+hash = "69b7c441307dd9c6fd4928b835c747c3aa1fa42c"
+
+[update]
+[update.modrinth]
+mod-id = "FsSrime2"
+version = "KuLNKmIo"

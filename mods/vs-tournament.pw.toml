@@ -1,0 +1,13 @@
+name = "VS: Tournament"
+filename = "tournament-1.18.2-forge-1.1.0_beta-5.3+e2ebbd37cd.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jIVvzR1C/versions/h889MYUO/tournament-1.18.2-forge-1.1.0_beta-5.3%2Be2ebbd37cd.jar"
+hash-format = "sha1"
+hash = "a1aca5711a26a8299e5971e3dae0476a4789ebb4"
+
+[update]
+[update.modrinth]
+mod-id = "jIVvzR1C"
+version = "h889MYUO"

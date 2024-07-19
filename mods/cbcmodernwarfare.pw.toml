@@ -1,0 +1,9 @@
+name = "CBC: Modern Warfare"
+filename = "cbcmodernwarfare-forge-1.18.2-0.0.4a.jar"
+side = "both"
+
+[download]
+url = "https://files.bethetka.ru/techno-celestial-warfare/cbcmodernwarfare-forge-1.18.2-0.0.4a.jar"
+
+hash-format = "sha256"
+hash = "db2c26d9fd66b5e9f8bfef0d84413fc1aa504a02f9bbae579fa1f10150daa9a2"

@@ -1,0 +1,9 @@
+name = "Smallarms mod"
+filename = "smallarm-0.9b2.jar"
+side = "both"
+
+[download]
+url = "https://files.bethetka.ru/techno-celestial-warfare/smallarm-0.9b2.jar"
+
+hash-format = "sha256"
+hash = "ee56dd61e58839edd476bbc9624bce10abddee11efae60286deb26d31d959c4e"

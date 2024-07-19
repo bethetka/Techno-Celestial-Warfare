@@ -1,0 +1,13 @@
+name = "Valkyrien Computers"
+filename = "vc-1.5.2+2090972a50.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XcEnXRT7/versions/w8SGRqGf/vc-1.5.2%2B2090972a50.jar"
+hash-format = "sha1"
+hash = "f6dca1d6aeb5c2046b83002d0925914642ac79f6"
+
+[update]
+[update.modrinth]
+mod-id = "XcEnXRT7"
+version = "w8SGRqGf"

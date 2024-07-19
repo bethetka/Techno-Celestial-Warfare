@@ -1,0 +1,9 @@
+name = "Create Ender Transmission"
+filename = "cbcmodernwarfare-forge-1.18.2-0.0.4a.jar"
+side = "both"
+
+[download]
+url = "https://files.bethetka.ru/techno-celestial-warfare/createendertransmission-2.0.7-1.18.2.jar"
+
+hash-format = "sha256"
+hash = "3a7c8560b8c55503b55e2b2507260f43e8a1af7395abba7d4600960bbaca572a"

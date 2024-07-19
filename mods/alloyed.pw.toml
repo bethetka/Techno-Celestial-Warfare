@@ -1,0 +1,9 @@
+name = "Create Alloyed"
+filename = "alloyed-1.18.2-v1.5a.jar"
+side = "both"
+
+[download]
+url = "https://files.bethetka.ru/techno-celestial-warfare/alloyed-1.18.2-v1.5a.jar"
+
+hash-format = "sha256"
+hash = "9bb27bb1ba5b15d15657f667a269a6ee899f045f622cb74aa7ee24cb41f1a94f"
